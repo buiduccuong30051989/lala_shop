@@ -1,0 +1,6 @@
+extends modules/layout/layout.pug
+include modules/_page-list/_page-list
+block head
+  link(href="css/main.css" rel="stylesheet")
+block content
+  +page-list(pageList.data)

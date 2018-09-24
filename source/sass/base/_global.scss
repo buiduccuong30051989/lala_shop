@@ -1,0 +1,26 @@
+//
+// Base :: Global
+// --------------------------------------------------
+html {
+  height: 100%;
+}
+
+fieldset {
+  margin: 0;
+  padding: 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  -webkit-padding-before: 0;
+  -webkit-padding-start: 0;
+  -webkit-padding-end: 0;
+  -webkit-padding-after: 0;
+  border: 0;
+}
+
+legend {
+  margin: 0;
+  padding: 0;
+  display: block;
+  -webkit-padding-start: 0;
+  -webkit-padding-end: 0;
+}
